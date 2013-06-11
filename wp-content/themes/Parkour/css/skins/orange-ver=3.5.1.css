@@ -1,0 +1,129 @@
+/* Black Orange Skin f09609 ab6b07 */
+
+#arrow_left {background: #F19C40 url("../../img/ico-prev-lg.png") center center no-repeat;}
+#arrow_left:hover {background: #F19C40 url("../../img/ico-prev-lg-hover.png") center center no-repeat;}
+#arrow_right {background: #F19C40 url("../../img/ico-next-lg.png") center center no-repeat;}
+#arrow_right:hover {background: #F19C40 url("../../img/ico-next-lg-hover.png") center center no-repeat;}
+
+a 							{color: #fff;}
+a:hover 					{color: #aaa;}
+a.readMore 					{background: 	#F19C40;	border:			solid 1px #ab6b07;	color:			#fff;}
+a.readMore:hover 			{background: 	#333;		border-color: 	#000;}
+.aboutAuthor, blockquote {
+	background: 	#232323;
+	border: 		solid 1px #464646;
+	border-left: 	solid 15px #464646;
+	color: 			#ccc;
+}  
+.blog-posts {color: 		#aaa;}
+.blog-posts:nth-of-type(odd) {
+	background: 	#171717;
+	color:			#888;
+}
+.blog-posts h2 a {color: #fff;}
+body {
+	background: 	#232323 url("../../img/bkg.png") fixed repeat;
+	color: 			#aaa;
+}
+.comment {border-bottom: 	solid 1px #232323;}
+.comment-reply-login 		{background: 	#F19C40;	border:			solid 1px #ab6b07;	color:			#fff;}
+.comment-reply-login:hover  {background: 	#fff;		border:			solid 1px #eee;		color:			#F19C40;}
+.commentmetadata a {color: #ccc;}
+#comments {border-top:		solid 5px #343434;}
+#comments .avatar {
+	background: 	#000;
+	border: 		solid 1px #343434;
+}
+#comments .vcard {color: 			#fff;}
+.featured-post:hover .footing a, .featured-post:hover .footing h2, .featured-post:hover .footing p {color: #fff;}
+.featured-post .footing {
+	background: #fff;
+	background: rgba(255,255,255,.95);
+}
+.featured-post .footing h2 a {color: #4f4f4f;}
+.featured-post .footing a {color: #aaa;}
+.featured-post .footing p {color: #888;}
+.featured-post:hover .footing {background: 	#F19C40;	background-color: 	rgba(240,150,9, 0.9);}
+.featured-pagination   {background: 	#F19C40;}
+h1, h2, h3, h4, h5, h6 {color: 	#fff;}
+footer {
+	background: 	#121212;
+	color: 			#aaa;
+}
+footer .base {
+	background: #171717;
+	border-top: solid 1px #232323;
+}
+footer .widget-area aside a {color: #aaa;}
+footer .widget-area aside a:hover {color: #F19C40;}
+footer .widget-area aside h3 {color: #fff;}
+footer .widget-area aside.pt-twitter li a {color:	#F19C40;}
+footer .widget-area aside.pt-twitter li a:hover {color:	#fff;}
+footer .widget-area aside.pt-flickr img:hover {border: 	solid 2px #F19C40;}
+
+header {
+	background: #F19C40 url("http://elaniin.com/lacolmena/wp-content/uploads/2013/05/bg_menu1.png") repeat-y;
+	border: solid 1px #232323;
+	border-left:none;
+	border-right: none;
+	
+}
+header .part1{
+position: absolute;
+margin-top:106%;
+z-index:200;
+}
+
+header .part2{
+position: absolute;
+margin-top:106%;
+margin-left:102px;
+z-index:200;
+}
+header .part3{
+position: absolute;
+margin-top:180%;
+margin-left:102px;
+z-index:200;
+}
+header input[type=text] {color:	#fff; font-size:18px; font-family:Helvetica;}
+nav .current-menu-item a	{color: #000; font-size:18px; font-family:Helvetica;}
+nav ul li a 				{color: black; font-size:18px; margin-bottom:10px; font-family:Helvetica;}
+nav ul li ul {background: #121212; }
+nav ul li a:hover {color: 	 #fff;}
+nav ul li ul a {color:	#aaa;}
+nav ul li ul a:hover {color:	#fff;}
+.no-post-img 				{background: #F19C40 url("../../img/bkg-sq-trans.png") repeat;		}
+.pagination-standard 		{background: #F19C40;}
+pre {
+	background: 	#232323;
+	border: 		solid 1px #464646;
+	color: 			#ccc;
+}
+.pprev-sm, .pprev-sm:hover {background-color: #F19C40;}
+.rcp {background:		#232323;}
+#respond h3 {color: #fff;}
+#respond input[type=text], #respond textarea {
+	background: 	#232323;
+	border: 		solid 1px #000;
+	color: 			#aaa;
+}
+#respond input[type=submit] 		{background: #F19C40;border: solid 1px #ab6b07; color: #fff;}
+#respond input[type=submit]:hover 	{background: 	#333;border-color: 	#000;}
+#sidebar {background: #101010;}
+#sidebar h3 {border-bottom: 	solid 1px #232323;}
+#sidebar ul li a:hover {color: #F19C40}
+.single-article {background: #171717; border-right: solid 1px #232323; }
+.single-offcolor { background: 	#171717; }
+.skinBkg {background: #F19C40;color: #fff;}
+.skinBkg h2 a {color:#fff;}
+#wrapper {
+	background: #000;
+	border: 	solid 1px #232323;
+	border-left:none;
+	border-right:none;
+}
+::-webkit-input-placeholder {color:#fff; }
+::-moz-placeholder 			{color:#fff; } /* firefox 19+ */
+:-ms-input-placeholder 		{color:#fff; } /* ie */
+input:-moz-placeholder 		{color:#fff; }
